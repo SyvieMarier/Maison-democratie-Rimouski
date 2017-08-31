@@ -1,4 +1,5 @@
 @import url('http://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 
 *{
   font-family: "Open Sans", Arial;
@@ -7,6 +8,11 @@
 .nav-link {
 font-size: 16.5px;
 font-weight: 600
+}
+
+.dot {
+  color: {{site.data.style.couleurs.secondaire}};
+
 }
 
 h1,h2,h3 {
