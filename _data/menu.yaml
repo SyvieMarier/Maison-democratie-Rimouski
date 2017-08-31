@@ -6,5 +6,6 @@ logo:
     alt: "logo du budget participatif de la ville de Rimouski"
 sections:
   - index
-  - participation
-#  - documentation
+  - documentation
+  - reglements
+  - presentation

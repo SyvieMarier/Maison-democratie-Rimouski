@@ -1,5 +1,6 @@
 ---
 layout: basics
+titre-court: Informations
 ---
 
   - [ville.rimouski/centres_communautaires](https://www.ville.rimouski.qc.ca/fr/citoyens/nav/sports/equipements/centres.html?iddoc=140681&page=details.jsp)
