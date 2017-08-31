@@ -1,0 +1,29 @@
+<nav class="navbar navbar-toggleable-md navbar-light navbar-fixed-top navbar-custom">
+  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+<a class="navbar-brand" href="{{site.baseurl}}">
+  <img src="{{site.data.menu.logo.img.src}}" width="{{site.data.menu.style.width}}" alt="{{site.data.menu.logo.img.alt}}">
+</a>
+  <div class="collapse navbar-collapse justify-content-end">
+    <ul class="navbar-nav">
+      {%for tag in site.data.menu.sections %}
+        {% assign active=""%}
+        {% assign t =".md"%}
+        {% assign tpath = tag | append: t %}
+        {% if page.path == tpath %}
+          {% assign active="active"%}
+        {% endif %}
+        {%for ipage in site.pages%}
+          {%if ipage.path == tpath %}
+              {% assign ref={{ipage.url}}%}
+              {% assign titre={{ipage.titre-court}} %}
+      <li class="nav-item {{active}}">
+        <a class="nav-link" href="{{ref}}">{{titre}}</a>
+      </li>
+          {%endif%}
+        {%endfor%}
+      {% endfor %}
+    </ul>
+  </div>
+</nav>
