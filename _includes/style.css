@@ -22,6 +22,14 @@ font-weight: 600
 
 .dot {
   color: {{site.data.style.couleurs.secondaire}};
+}
+
+p.slogan {
+  position: absolute;
+  bottom: 0;
+  color: {{site.data.style.couleurs.primaire}};
+  font-size: 20.25px;
+  font-weight: 700
 
 }
 
