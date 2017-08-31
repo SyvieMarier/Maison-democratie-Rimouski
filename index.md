@@ -1,5 +1,6 @@
 ---
 layout: basics
+titre-court: "Le Projet"
 ---
 
 ### Préoccupations :

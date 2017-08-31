@@ -1,6 +1,10 @@
+style:
+  width: "200px"
 logo:
   img:
-    src: "img/logo-riki-transition.jpg"
-    alt: "logo de Rimouski en Transition"
+    src: "https://budgetparticipatif-rimouski.com/rimouski/img/theme-client/logo-budget-participatif-rimouski.png"
+    alt: "logo du budget participatif de la ville de Rimouski"
 sections:
   - index
+  - participation
+#  - documentation
