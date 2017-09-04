@@ -30,7 +30,7 @@ Si la Maison hébergeait des startups d'économie sociale, celles-ci auraient ac
 
 Pour ce qui est de la transition écologique qu'entreprend la ville de Rimouski, la Maison est un lieu idéal pour la sensibilisation et l'éducation. Elle aurait aussi un impact positif en soi, ne serait-ce que par sa localisation à distance de marche, sinon par les projets qu'elle faciliterait.
 
-Il importe de comprendre que personne ne peut définir précisément ce à quoi va ressembler précisément la Maison de la démocratie. Pour que celle-ci reste cohérente avec ses valeurs de démocratie participative, nous ne pouvons décider a priori de ce qui s'y dira ou fera. Cet espace, tout comme les ambitions de la population, est amené à évoluer au cours du temps. Encore une fois, ce qui nous intéresse, ce ne sont pas les résultats à court terme, mais de mettre en place les conditions dans lesquelles la démocratie participative pourra réellement fleurir.
+Il importe de comprendre que personne ne peut définir précisément ce à quoi va ressembler la Maison de la démocratie. Pour que celle-ci reste cohérente avec ses valeurs de démocratie participative, nous ne pouvons décider a priori de ce qui s'y dira ou fera. Cet espace, tout comme les ambitions de la population, est amené à évoluer au cours du temps. Encore une fois, ce qui nous intéresse, ce ne sont pas les résultats à court terme, mais de mettre en place les conditions dans lesquelles la démocratie participative pourra réellement fleurir.
 
 ## Les projets
 
