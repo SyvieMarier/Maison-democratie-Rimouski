@@ -1,10 +1,8 @@
 ---
 layout: basics
 titre-court: Le Projet
+titre: Un lieu pour vivre la démocratie
 ---
-
-Maison de la démocratie (ou centre local de collaboration (CLC) ?) <!-- startup d'économie sociale -->
-===
 
 ## Présentation
 La Maison de la démocratie est un lieu de partage, d'échange et de résautage. Elle a pour mission de faciliter et soutenir l'émergence, le développement et le suivit de projets à caractère collaboratif.

@@ -1,8 +1,13 @@
 ---
 layout: basics
 titre-court: "Participez"
+titre: Comment contributer au projet
 ---
 
-# Règles de fonctionnement
+Un projet ouvert, vivant et plaisant
+
+## Les rencontres
 
   - en auto-gestion
+
+## Le site internet

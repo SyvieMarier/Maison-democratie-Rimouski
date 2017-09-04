@@ -5,7 +5,11 @@
     {% include menu.html %}
     {% include header.html %}
     <div class="container" style="margin-top:25px;">
+      {% if page.titre %}
+      <h1> {{page.titre}} </h1>
+      {% elsif page.titre-court %}
       <h1> {{page.titre-court}} </h1>
+      {%endif%}
      {{content}}
    </div>
   </body>
