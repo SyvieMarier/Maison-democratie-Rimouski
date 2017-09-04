@@ -1,5 +1,6 @@
 ---
-layout: basics 
+layout: basics
+titre-court: Le Projet
 ---
 
 Maison de la démocratie (ou centre local de collaboration (CLC) ?) <!-- startup d'économie sociale -->
@@ -16,7 +17,7 @@ Si le modèle collaboratif nous parait si pertinent, c'est qu'il répond à la f
 
 ## Les projets
 (ébauche et liste non exhaustive)
-  - food-coop : épicerie / groupe d'achat bénévole, possibilité de cuisine collective et partenariat avec productuers locaux. ex: food-coop de NY, AMAP de St-Denis, Frigo Vert de concordia... 
+  - food-coop : épicerie / groupe d'achat bénévole, possibilité de cuisine collective et partenariat avec productuers locaux. ex: food-coop de NY, AMAP de St-Denis, Frigo Vert de concordia...
   - café communautaire : ex : Alma, lentils as anything ...
   - Atelier communautaire : Vélo-cité, la fabrique, fablab ...
   - Salle projection / conférence
