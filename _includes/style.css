@@ -33,9 +33,21 @@ p.slogan {
 
 }
 
-h1,h2,h3 {
+h1 {
+  color: {{site.data.style.couleurs.primaire}};
+  font-weight: 600;
+   margin-bottom: 25px;
+   font-size: 30px
+ }
+
+h2,h3 {
   color: {{site.data.style.couleurs.secondaire}};
+  font-size: 24px
 }
 p,li,ol,ul {
   color: {{site.data.style.couleurs.noir}};
+}
+
+li {
+  margin-left: 60px;
 }
