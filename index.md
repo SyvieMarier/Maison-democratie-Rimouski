@@ -8,7 +8,7 @@ titre: Un lieu pour vivre la démocratie
 
 La Ville de Rimouski a décidé d'instaurer un budget participatif citoyen, pour lequel les propositions seront acceptées jusqu'au 21 septembre 2017. "Le budget participatif est un outil sensationnel pour concrétiser cet objectif de participation citoyenne, car c'est un processus démocratique par lequel les citoyennes et les citoyens décident de la façon de dépenser une part du budget municipal", nous dit-on sur le site spécialement créé pour l'événement.
 
-Nous pensons qu'au lieu de servir à la réalisation de quelques projets ponctuels, ce budget participatif peut avoir de plus grandes ambitions; qu'en plus de "concrétiser un objectif" de participation citoyenne, il doit être utilisé pour construire la participation citoyenne de demain. C'est pourquoi nous proposons que la somme allouée au budget participatif soit investie dans un projet visant à développer une réelle culture de démocratie participative sur le territoire de Rimouski. L'ambition est immense, mais elle est surtout passionnante!
+Nous proposons un lieu où il soit possible de construire, de faciliter et d'encourager la participation citoyenne à Rimouski. C'est pourquoi nous proposons que la somme allouée au budget participatif soit investie dans un projet visant à développer une réelle culture de démocratie participative sur le territoire de Rimouski. L'ambition est immense, mais elle est surtout passionnante!
 
 ## Présentation
 
