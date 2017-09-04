@@ -15,3 +15,7 @@ titre-court: Documentation
 ## Lieux inspirants
 
 - [lentils as anything](https://lentilasanything.com)
+
+## autres
+
+ Besoin d'un lieu physique pour la démocratie participative:  Yung, Diego, Breton ...
