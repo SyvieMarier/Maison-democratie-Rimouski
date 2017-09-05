@@ -22,6 +22,8 @@ Nous pensons que l'ébullition que créera la Maison de la démocratie, et les r
 
 Concrètement, la Maison proposerait un espace multifonctionnel qui s'articulerait autour de quelques services de base: cuisine collective, café, salle multifonctionnelle, atelier de réparation d'objets... Tous ces lieux seraient autant d'occasions de rencontres et de questionnements.
 
+L'idée est de donner une chance à la démocratie participative de donner des résultats ancrés dans le réel, et de faire de Rimouski un laboratoire de la participation citoyenne pour l'ensemble du Québec. Actuellement, de nombreuses personnes aux quatre coins de la ville mûrissent des projets dans un coin de leur tête, mais la sensation d'être seul les empêche de concrétiser cette idée. La Maison se veut un lieu où ces idées ont la chance de croître, portées par la force des rencontres et des discussions.
+
 ## Un projet pour ...
 
 ### ... réussir la démocratie participative
@@ -30,8 +32,6 @@ Concrètement, la Maison proposerait un espace multifonctionnel qui s'articulera
 À partir des [expériences précédentes]({{page.baseurl}}documentation.html) nous pouvons voir que la *« participation citoyenne »* a besoin de lieux physiques **permanents** pour être effective et gratifiante. Sans ces lieux et leur gestion conjointe par la communauté, l'expérience participative ne peux espérer aller au-delà de la consultation ponctuelle.
 
 Ce lieu doit être un espace invitant et rassembleur. Gratuit, ouvert à tous et accessible en tout temps pour créer un réel espace de liberté civique. Pour respecter les idéaux de participation et d'inclusion qu'elle incarne, la gestion de **La Maison de la Démocratie** et ses orientations seront élaborées de manière démocratique.
-
-L'idée est de donner une chance à la démocratie participative de donner des résultats ancrés dans le réel, et de faire de Rimouski un laboratoire de la participation citoyenne pour l'ensemble du Québec. Actuellement, de nombreuses personnes aux quatre coins de la ville mûrissent des projets dans un coin de leur tête, mais la sensation d'être seul les empêche de concrétiser cette idée. La Maison se veut un lieu où ces idées ont la chance de croître, portées par la force des rencontres et des discussions.
 
 L'élaboration du projet de la **Maison de la Démocratie de Rimouski** se veux un modeste exemple de la démarche d'émancipation citoyenne qui se vivra dans ce lieu. À terme, la Maison pourrait devenir lieu important de la démocratie municipale en hébergeant des assemblées de quartier qui discuterait des enjeux reliés à l'administration municipale et au vivre ensemble.
 
