@@ -35,6 +35,7 @@ Idée de fonctionnement : offrir espace co-working gratuitement en échange d�
   - Formuler une ébauche de projet
   - Comment faire en sorte que le « concours » budget participatif soit coopté pour devenir un vrai processus participatif?   Publicise, met sur une plateforme participative.
   - lieu
+  - comment rentrons-nous dans le budget de 150 000 $ ? Comment payons-nous les frais d'opération de la MDR (chauffage, etc.) ?
 
 ### Calendrier :
   - 6 au Tim (pub par réseaux sociaux)
