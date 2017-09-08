@@ -1,0 +1,42 @@
+---
+layout: basics
+---
+<style>
+#mapid {
+   height: 500px;
+   width: 100%;
+   margin-bottom: 50px;
+ }
+</style>
+
+ <div class="container-fluid no-margin" id="mapid" ></div>
+
+ <script>
+
+
+ var map = L.map('mapid', {
+   'center': [48.4525,-68.5232],
+   'zoom': 13,
+   'layers': [
+     L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+       'attribution': 'Map data &copy; OpenStreetMap contributors'
+     })
+   ]
+ });
+var controlLayers = L.control.layers().addTo(map);
+
+var url ='https://www.donneesquebec.ca/recherche/dataset/1cf3dfaf-6cf8-47e5-bc46-5b68887d24bc/resource/c18238a6-e4a1-4408-b053-c5893f5aa8d1/download/edificesmunicipaux.json';
+
+$.getJSON(url, function (geojson) {
+  var geojsonLayer = L.geoJson(geojson, {
+    style: function (feature) {
+      return {
+        'weight': 0,
+        'fillColor': 'red',
+        'fillOpacity': 1
+      }
+    }
+  }).addTo(map);
+  controlLayers.addOverlay(geojsonLayer, 'GeoJSON layer 1');
+});
+ </script>
