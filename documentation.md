@@ -14,7 +14,11 @@ titre-court: Documentation
 
 ## Lieux inspirants
 
-- [lentils as anything](https://lentilasanything.com)
+  - [lentils as anything](https://lentilasanything.com)
+
+## Démocratie
+
+  - [Démocratie : histoire d'un malentendu](https://www.youtube.com/watch?v=KVW5ogGDlts). Une entrevue sur l'histoire de la démocratie avec Francis Dupuis-Déri. 
 
 ## autres
 
