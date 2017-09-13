@@ -15,10 +15,12 @@ titre-court: Documentation
 ## Lieux inspirants
 
   - [lentils as anything](https://lentilasanything.com)
+  - [Coop Le Milieu Montreal](http://www.lemilieu.ca/)
+  - [La Remise - bibliotheque d'outils](http://laremise.ca/).
 
 ## Démocratie
 
-  - [Démocratie : histoire d'un malentendu](https://www.youtube.com/watch?v=KVW5ogGDlts). Une entrevue sur l'histoire de la démocratie avec Francis Dupuis-Déri. 
+  - [Démocratie : histoire d'un malentendu](https://www.youtube.com/watch?v=KVW5ogGDlts). Une entrevue sur l'histoire de la démocratie avec Francis Dupuis-Déri.
 
 ## autres
 
