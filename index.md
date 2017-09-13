@@ -35,4 +35,4 @@ Il y a à coup sûr, à un coin de rue de cette ville, dans une chambre d'étudi
 
 C'est un rendez-vous:
 
-DATE ET LIEU
+**mercredi le 13 septembre, au [Bar la Rencontre](https://www.google.ca/maps/place/Bar+La+Rencontre+Enr/@48.4477923,-68.5354057,15z/data=!4m5!3m4!1s0x0:0x33feee016eed6d33!8m2!3d48.4477923!4d-68.5354057)**
